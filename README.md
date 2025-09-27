@@ -1,3 +1,6 @@
+# 📊 Customer Segmentation (K-Means + PCA) — 2000+ records clustered into 5 distinct shopping personas for actionable insights.
+![image alt](https://github.com/theravipaul/mall-customer-segmentation/blob/16aeee69f384f1dfb9a9f196081f71e86142080b/Screenshot%202025-09-27%20231440.png)
+
 # 🛍️ Mall Visitor Segmentation using KMeans Clustering
 
 This project applies unsupervised machine learning to segment mall visitors based on their shopping behavior. By identifying patterns in visitor activity, mall management and store owners can better prioritize real customers, improve marketing strategies, and enhance overall customer experience.
